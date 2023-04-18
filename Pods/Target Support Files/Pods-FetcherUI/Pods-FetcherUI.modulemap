@@ -1,0 +1,6 @@
+framework module Pods_FetcherUI {
+  umbrella header "Pods-FetcherUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
